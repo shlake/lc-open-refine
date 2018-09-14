@@ -4,11 +4,20 @@ teaching: 10
 exercises: 5
 questions:
 - "How do I get data into OpenRefine?"
+- "How is data organised in OpenRefine?"
+- "How do I access options to amend data in OpenRefine?"
+- "What is the difference between Rows and Records in OpenRefine?"
+- "How do I work with single cells that contain multiple values in a list?"
 objectives:
 - "Successfully import data into OpenRefine"
+- Locate controls for navigating data in OpenRefine
+- Find options to work with data through the OpenRefine dropdown menus
 keypoints:
 - "Use the `Create Project` option to import data"
 - "You can control how data imports using options on the import screen"
+- "OpenRefine uses rows and columns to display data"
+- "Most options to work with data in OpenRefine are accessed through a drop down menu at the top of a data column"
+- "When you select an option in a particular column (e.g. to make a change to the data), it will effect all the cells in that column"
 ---
 
 ## Importing data
@@ -45,3 +54,12 @@ To open an existing project in OpenRefine you can click `Open Project` from the 
 ### Going Further
 * Look at the other options on the Import screen - try changing some of these options and see how that changes the Preview and how the data appears after import.
 * Do you have access to JSON or XML data? If so the first stage of the import process will prompt you to select a 'record path' - that is the parts of the file that will form the data rows in the OpenRefine project.
+
+## The layout of OpenRefine
+OpenRefine displays data in a tabular format. Each row will usually represent a 'record' in the data, while each column represents a type of information. This is very similar to how you might view data in a spreadsheet or database. As with a spreadsheet, the individual bits of data live in 'cells' at the intersection of a row and a column.
+
+OpenRefine only displays a limited number of rows of data at one time. You can adjust the number choosing between 5, 10 (the default), 25 and 50 at the top left of the table of data. You can navigate through the records by using the previous/next/first/last navigation options at the top right of the table of data.
+
+## Working with data in OpenRefine
+Most options to work with data in OpenRefine are accessed from drop down menus at the top of the data columns. When you select an option in a particular column (e.g. to make a change to the data), it will affect all the cells in that column. If you want to make changes across several columns, you will need to do this one column at a time.
+
