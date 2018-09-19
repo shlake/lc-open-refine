@@ -1,5 +1,5 @@
 ---
-title: "Transformations - Exporting"
+title: "Exporting"
 teaching: 5
 exercises: 0
 questions:
