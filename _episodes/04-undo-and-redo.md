@@ -1,5 +1,5 @@
 ---
-title: "Transformations - Undo and Redo"
+title: "Undo and Redo"
 teaching: 5
 exercises: 0
 questions:
