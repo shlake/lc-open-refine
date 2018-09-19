@@ -14,10 +14,9 @@ The original LC workshop is scheduled for 3+ hours. This version of Openrefine w
 - Handling Arrays
 - Advanced OpenRefine functions (reconciliation)
 
-TO learn about these topics, see the complete lesson:
+To learn about these topics, see the complete lesson:
 
 Library Carpentry. **OpenRefine for Librarians**. June 2016. https://librarycarpentry.github.io/lc-open-refine/
-
 
 
 # Original Library Carpentry 
