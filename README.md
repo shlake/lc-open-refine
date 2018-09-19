@@ -1,4 +1,26 @@
-# Library Carpentry
+# Library Carpentry - Southeast Data Librarians Symposium
+
+This version of the Library Carpentry Openrefine workshop is a shortened version of the Original Library Carpentry Workshop. Please see the bottom section on information and links to the Original lesson.
+
+## Rational
+
+The original LC workshop is scheduled for 3+ hours. This version of Openrefine was shortened in length to teach in 75 minutes. I encourage ALL Southeast Data Librarians to work through the sections in the original LC workshop that were omitted due to time constraints.
+
+## Topics Not Covered in this Shortened Version
+
+- Clustering
+- Columns & Sorting
+- Spliting cells
+- Handling Arrays
+- Advanced OpenRefine functions (reconciliation)
+
+TO learn about these topics, see the complete lesson:
+
+Library Carpentry. **OpenRefine for Librarians**. June 2016. https://librarycarpentry.github.io/lc-open-refine/
+
+
+
+# Original Library Carpentry 
 
 The Library Carpentry module '[OpenRefine for Librarians](https://librarycarpentry.github.io/lc-open-refine/)' is maintained by [Owen Stephens](https://github.com/ostephens), [Juliane Schneider](https://github.com/pitviper6), and [Carmi Cronje](https://github.com/ccronje).
 
