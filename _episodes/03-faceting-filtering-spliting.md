@@ -1,7 +1,7 @@
 ---
 title: "Faceting - Filtering - Splitting"
 teaching: 10
-exercises: 10
+exercises: 5
 questions:
 - "What is a facet in OpenRefine?"
 - "What is a filter in OpenRefine?"
