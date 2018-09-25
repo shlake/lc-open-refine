@@ -12,6 +12,7 @@ objectives:
 - "Answer simple questions about the content of a data set using Facets"
 - "Use facets and filters to work with a subset of data"
 - "Correct simple data problems through a facet"
+- "Employ drop-downs to split values from one column into multiple columns."
 keypoints:
 - "You can use facets and filters to explore your data"
 - "You can use facets and filters work with a subset of data in OpenRefine"
