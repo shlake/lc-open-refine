@@ -1,6 +1,7 @@
 # Library Carpentry - Southeast Data Librarians Symposium
 
 https://shlake.github.io/lc-open-refine-short/
+
 This version of the Library Carpentry Openrefine workshop is a shortened version of the Original Library Carpentry Workshop. Please see the bottom section on information and links to the Original lesson.
 
 ## Rational
