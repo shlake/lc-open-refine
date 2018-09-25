@@ -16,9 +16,13 @@ keypoints:
 ---
 
 ## What is OpenRefine?
-OpenRefine is described as "a power tool for working with messy data" [David Huynh](http://web.archive.org/web/20141021040915/http://davidhuynh.net/spaces/nicar2011/tutorial.pdf) - but what does this mean? It is probably easiest to describe the kinds of data OpenRefine is good at working with and the sorts of problems it can help you solve.
+What is OpenRefine?
 
-OpenRefine is most useful where you have data in a simple tabular format such as a spreadsheet, a comma separated values file (csv) or a tab delimited file (tsv) but with internal inconsistencies either in data formats, or where data appears, or in terminology used. OpenRefine can be used to standardize and clean data across your file. It can help you:
+- OpenRefine is a Java program that runs on your machine (not in the cloud): it is a desktop application that uses your web browser as a graphical interface. No internet connection is needed, and none of the data or commands you enter in OpenRefine are sent to a remote server.
+  - OpenRefine does not modify your original dataset. All actions are easily reversed in OpenRefine and you can capture all the actions applied to your data and share this documentation with your publication as supplemental material.OpenRefine saves as you go. You can return to the project at any time to pick up where you left off, or export your data to a new file.
+ - OpenRefine can be used to standardise and clean data across your file.
+
+It can help you:
 
 * Get an overview of a data set
 * Resolve inconsistencies in a data set, for example standardizing date formatting
@@ -64,3 +68,16 @@ Some common scenarios might be:
 | Braddon, M. E. (Mary Elizabeth) | 1835 | 1915 |
 | Rossetti, William Michael       | 1829 | 1919 |
 | Prest, Thomas Peckett           | 1810 | 1879 |
+
+## Basics of OpenRefine
+
+You can find out a lot more about OpenRefine at [http://openrefine.org](http://openrefine.org) and check out some great [introductory videos](https://www.youtube.com/channel/UCqwSVsJ8CWD9pQUZDbJC1ew). There is a [Google Group](https://groups.google.com/forum/?hl=en#!forum/openrefine) that can answer a lot of beginner questions and problems. There is also an [OpenRefine Google Plus community](https://plus.google.com/communities/117280693504889048168) where you can find a lot of help, especially from community members from the life sciences. OpenRefine [recipes](https://github.com/OpenRefine/OpenRefine/wiki/Recipes), scripts, projects, and extensions are available too, where you can find and copy them into your OpenRefine instance to run on your dataset.
+
+The OpenRefine GitHub wiki page has a [reference](https://github.com/OpenRefine/OpenRefine/wiki/GREL-Functions) of the General Refine Expression Language (GREL).
+
+## Features
+
+* Open source ([source on GitHub](https://github.com/OpenRefine/OpenRefine)).
+* A large growing community, from novice to expert, ready to help.
+* Works with large-ish datasets (100,000 rows). Does not scale to many millions. (yet).
+
