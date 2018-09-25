@@ -6,8 +6,6 @@ questions:
 - "How do I get data into OpenRefine?"
 - "How is data organised in OpenRefine?"
 - "How do I access options to amend data in OpenRefine?"
-- "What is the difference between Rows and Records in OpenRefine?"
-- "How do I work with single cells that contain multiple values in a list?"
 objectives:
 - "Successfully import data into OpenRefine"
 - Locate controls for navigating data in OpenRefine
