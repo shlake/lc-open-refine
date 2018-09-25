@@ -1,7 +1,7 @@
 ---
 title: "Transforming Strings, Numbers, Dates and Booleans"
 teaching: 5
-exercises: 15
+exercises: 5
 questions:
 - "How do I use transformations to programmatically edit my data?"
 - "How do I transform the various data types?"
