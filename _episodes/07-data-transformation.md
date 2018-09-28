@@ -49,5 +49,4 @@ Such tests can be combined with other GREL expressions to create more complex tr
 
 >## Use Boolean Exercise
 >In this exercise we are going to use the Boolean data type.
-
 {: .checklist}
