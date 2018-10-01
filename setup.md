@@ -52,7 +52,7 @@ There are also general and specialist tutorials about using OpenRefine available
 
 There are a number of ways to get the data we will be using in OpenRefine.
 
-1. Once you have started OpenRefine, use this link [http://shlake.github.io/lc-open-refine-short/data/doaj-article-sample.xlsx](xhttp://shlake.github.io/lc-open-refine-short/data/doaj-article-sample.xlsx) to import the data directly into OpenRefine using the **Web Addresses URLs** option.
+1. Once you have started OpenRefine, use this link [http://shlake.github.io/lc-open-refine-short/data/doaj-article-sample.xlsx](http://shlake.github.io/lc-open-refine-short/data/doaj-article-sample.xlsx) to import the data directly into OpenRefine using the **Web Addresses URLs** option.
 
 2. You can download [doaj-article-sample.xlsx](http://shlake.github.io/lc-open-refine-short/data/doaj-article-sample.xlsx), which is a xlsx file that should automatically download. You may need to right click or control click in order to save the file (NOTE: In Safari, right click and select **download linked file**; in Chrome and Firefox, right click and select **save link as**). Make a note of the location (i.e the folder, your desktop) to which you save the file.
 
