@@ -19,7 +19,6 @@ Through facets, filters and clusters OpenRefine offers relatively straightforwar
 
 However, sometimes there will be changes you want to make to the data that cannot be achieved in this way. Such types of changes include:
 
-* Splitting data that is in a single column into multiple columns (e.g. splitting an address into multiple parts)
 * Standardising the format of data in a column without changing the values (e.g. removing punctuation or standardising a date format)
 * Extracting a particular type of data from a longer text string (e.g. finding ISBNs in a bibliographic citation)
 
