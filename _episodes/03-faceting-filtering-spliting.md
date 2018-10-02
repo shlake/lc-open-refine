@@ -121,7 +121,7 @@ If data in a column needs to be split into multiple columns, and the parts are s
 >>## Solution
 >> 1. On the `Publisher 2` column, click the down arrow and then `Edit column` > `Rename this column`. Type "PubPlace" into the box
 >> that appears. 
->> 2. Remove the original column `Edit column` > `Remove this column`. Then On the `Publisher 1` column, click the down arrow 
+>> 2. Remove the original column `Edit column` > `Remove this column`. Then in the `Publisher 1` column, click the down arrow 
 >> and then `Edit column` > `Rename this column`. Type "Publisher" into the box
 >> that appears.
 >{: .solution}
