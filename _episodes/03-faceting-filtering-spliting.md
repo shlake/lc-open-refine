@@ -113,16 +113,16 @@ If data in a column needs to be split into multiple columns, and the parts are s
 5. Click `OK`. You'll get two new columns called `Publisher 1` and `Publisher 2`.
 
 
->## Exercise
+> ## Exercise
 >
->1. Change the name of the second new column to "PubPlace". 
->2. Change the name of the first new column to "Publisher". Is there a problem?
+> 1. Change the name of the second new column to "PubPlace". 
+> 2. Change the name of the first new column to "Publisher". Is there a problem?
 
->> ## Solution
->>1. On the `Publisher 2` column, click the down arrow and then `Edit column` > `Rename this column`. Type "PubPlace" into the box
->> that appears. 
->>2. Remove the original column `Edit column` > `Remove this column`. Then On the `Publisher 1` column, click the down arrow 
->> and then `Edit column` > `Rename this column`. Type "Publisher" into the box
->> that appears.
->{: .solution}
+> > ## Solution
+> > 1. On the `Publisher 2` column, click the down arrow and then `Edit column` > `Rename this column`. Type "PubPlace" into the box
+> > that appears. 
+> > 2. Remove the original column `Edit column` > `Remove this column`. Then On the `Publisher 1` column, click the down arrow 
+> > and then `Edit column` > `Rename this column`. Type "Publisher" into the box
+> > that appears.
+> {: .solution}
 {: .challenge}
