@@ -106,7 +106,7 @@ The list of values in the facet will update as you make edits.
 If data in a column needs to be split into multiple columns, and the parts are separated by a common separator (say a comma, or a space), you can use that separator to divide up the pieces into their own columns.
 
 
-1. Let us suppose we want to split the `Publisher` column into separate columns for genus and for species. 
+1. Let us suppose we want to split the `Publisher` column into separate columns for Publisher and for Publishing Place. 
 2. Click the down arrow at the top of the `Publisher` column. Choose `Edit Column` > `Split into several columns...`
 3. In the pop-up, in the `Separator` box, replace the comma with a semi-colon (;).
 4. Uncheck the box that says `Remove this column`.
