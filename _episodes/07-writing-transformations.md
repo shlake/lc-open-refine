@@ -34,7 +34,7 @@ Next to the 'Preview' option are options to view:
 >## Put titles into Title Case
 >Use Facets and the GREL expression ```value.toTitlecase()``` to put the titles in Title Case
 >1. Facet by publisher
->2. Select "Akshantala Enterprises" and "Society of Pharmaceutical Technocrats"
+>2. Select "AKSHANTALA ENTERPRISES" and "SOCIETY OF PHARMACEUTICAL TECHNOCRATS"
 >3. To select multiple values in the facet use the ```include``` link that appears to the right of the facet
 >4. See that the Titles for these are all in uppercase
 >5.  Click the dropdown menu on the Title column
