@@ -44,7 +44,7 @@ There are also general and specialist tutorials about using OpenRefine available
 * [Identifying potential headings for Authority work using III Sierra, MS Excel and OpenRefine](http://epublications.marquette.edu/lib_fac/81/)
 * [Free your metadata website](http://freeyourmetadata.org)
 * [Data Munging Tools in Preparation for RDF: Catmandu and LODRefine by Christina Harlow](http://journal.code4lib.org/articles/11013)
-* [OpenRefine Documentation)](http://openrefine.org/documentation.html)
+* [OpenRefine Documentation](http://openrefine.org/documentation.html)
 
 ### Downloading the data
 
