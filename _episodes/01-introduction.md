@@ -13,6 +13,8 @@ keypoints:
 - "OpenRefine can help you split data up into more granular parts"
 - "OpenRefine can help you match local data up to other data sets"
 - "OpenRefine can help you enhance a data set with data from other sources"
+slildes:
+- "[Introduction](https://docs.google.com/presentation/d/1GscHDWE-05TeQih8WsteL79ACQphBM6npLKT2eu58LY/edit?usp=sharing)"
 ---
 
 ## What is OpenRefine?
